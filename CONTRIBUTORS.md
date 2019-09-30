@@ -233,6 +233,11 @@
 - Bio: Student at MNNIT Allahabad
 - GitHub: [Shivani Gupta](https://github.com/develop19)
 
+#### Name: [Puneet Aggarwal](https://github.com/puneet222)
+- Place: Bangalore, India
+- Bio: JavaScript Enthusiast, Frontend Developer
+- GitHub: [Puneet Aggarwal](https://github.com/puneet222)
+
 #### Name: [Rafal Kruk](https://github.com/rkruk)
 - Place: Yorkshire, UK
 - Bio: Web Developer
